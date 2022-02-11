@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "subway_dll", "subway_dll\subway_dll.vcxproj", "{9D12096B-319A-4D0B-858C-EC2656791D36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D12096B-319A-4D0B-858C-EC2656791D36}.Debug|x64.ActiveCfg = Debug|x64
+		{9D12096B-319A-4D0B-858C-EC2656791D36}.Debug|x64.Build.0 = Debug|x64
+		{9D12096B-319A-4D0B-858C-EC2656791D36}.Debug|x86.ActiveCfg = Debug|Win32
+		{9D12096B-319A-4D0B-858C-EC2656791D36}.Debug|x86.Build.0 = Debug|Win32
+		{9D12096B-319A-4D0B-858C-EC2656791D36}.Release|x64.ActiveCfg = Release|x64
+		{9D12096B-319A-4D0B-858C-EC2656791D36}.Release|x64.Build.0 = Release|x64
+		{9D12096B-319A-4D0B-858C-EC2656791D36}.Release|x86.ActiveCfg = Release|Win32
+		{9D12096B-319A-4D0B-858C-EC2656791D36}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B9A7F1C-0A6A-4BEF-A7D3-C33E6DB12C21}
+	EndGlobalSection
+EndGlobal

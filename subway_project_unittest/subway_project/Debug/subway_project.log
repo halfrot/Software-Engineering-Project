@@ -1,0 +1,24 @@
+﻿  command_controller.cpp
+  controller.cpp
+  file.cpp
+  line.cpp
+  main.cpp
+  request_file_controller.cpp
+  result_controller.cpp
+  send_file_controller.cpp
+  station.cpp
+  subway.cpp
+  user.cpp
+  正在生成代码...
+Debug\command_controller.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+Debug\controller.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+Debug\file.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+Debug\line.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+Debug\main.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+Debug\request_file_controller.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+Debug\result_controller.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+Debug\send_file_controller.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+Debug\station.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+Debug\subway.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+Debug\user.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  subway_project.vcxproj -> C:\Users\halfrot\Documents\GitHub\subway\2236_2167\subway_project_unittest\Debug\subway_project.exe

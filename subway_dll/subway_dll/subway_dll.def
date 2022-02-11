@@ -1,0 +1,4 @@
+LIBRARY subway_dll.dll
+
+EXPORTS
+ConsoleInterface
